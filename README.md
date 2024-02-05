@@ -4,7 +4,7 @@ The interesting java project will be build using the AWT and Swings libraries.
 Creating a Java Application that Produces GUI Output Quiz.
 The test contains 10 questions and there is 10 seconds time limit.
 
-# Question 1 with timer(10 second)
+# Question with timer(10 second)
 ![Question 1 with timer(10 sec)](https://github.com/zaheerjmi/Java-Quiz-Game-in-Swing/assets/89310104/89066839-279d-41f9-b919-6b3d9944f5f4)
 
 # Show the result with percent
